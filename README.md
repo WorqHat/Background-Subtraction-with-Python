@@ -1,5 +1,5 @@
 # Background Subtraction with OpenCV and BGS Libraries
-This folder contains code for tutorial on [Background Subtraction with OpenCV and BGS Libraries](https://learnopencv.com/background-subtraction-with-opencv-and-bgs-libraries)
+
 
 ## Getting Started
 
